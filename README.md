@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @opjna
 - 👀 I’m interested in learning about coding and mechanical engineering, particularly control systems
-- 🌱 I’m currently studying at University of Michigan, Ann Arbor
+- 🧑‍🎓 I graduated from University of Michigan, Ann Arbor with MS in ME+control
+- 🌱 MIT-LL
 
 
 <!---
